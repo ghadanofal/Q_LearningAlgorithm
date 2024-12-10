@@ -1,1 +1,1 @@
-"# Q_LearningAlgorithm" 
+"Q-Learning Algorithm" 
