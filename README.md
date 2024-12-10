@@ -5,7 +5,7 @@ This repository contains a C++ implementation of the Q-Learning algorithm applie
 
 <h3>-Description of code :</h3>
 
-The q_learning.cpp file contains the main implementation of the Q-Learning algorithm. Here's an overview of the key components:
+The Q_LearningAlgorithm.cpp file contains the main implementation of the Q-Learning algorithm. Here's an overview of the key components:
 <ul>
   <li>printArray: Function to print a 2D array.</li>
   <li>initializeRewardArray: Function to initialize the reward matrix based on the problem description.</li>
